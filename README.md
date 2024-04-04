@@ -1,5 +1,6 @@
 # Machine-Learning-with-Python
-Machine Learning with Python in Jupiter 
+
+Welcome to my repository documenting the learning journey through various machine learning techniques and models. This collection encapsulates my hands-on experience with a range of methodologies aimed at both Supervised and Unsupervised Learning, Including Regression and Classification Models, Clustering Techniques, and Recommendation Systems.
 
 Introduction and Data Processing:
     
