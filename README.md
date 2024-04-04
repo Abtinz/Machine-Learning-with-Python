@@ -1,13 +1,21 @@
 # Machine-Learning-with-Python
 Machine Learning with Python in Jupiter 
 
-        
-* Introduction : matplotlib , numpy , pandas
-* Regression 
-* Classification
-* Clustering
-* Recommandation systems
-        
+Introduction and Data Processing:
+    
+   * Matplotlib, Numpy, Pandas
+   * Statics and Plots:
+        * varianse, mean, mode, median
+        * Box Plot
+        * Skewness and Quartiles
+        * Q-Q Plot
+        * Histogram Analysis
+        * Correlation Detection
+          
+   * Data Cleaning
+   * Normalizing
+   * Missed Data
+
 Regression :
     
    * Simple Liner Regression
