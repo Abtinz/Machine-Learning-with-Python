@@ -41,4 +41,17 @@ Recommandation systems:
    
    * Context Base
    * Collabrative Base
+
+Data Mining:
+
+   * Pre Processing
+   * Regression
+   * Classification
+   * Clustering
+
+Computational Intelligence:
+
+   * Fuzzy Logic
+   * Genetic Algorithms
+
    
