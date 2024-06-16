@@ -1,0 +1,5 @@
+IF (d_L IS close_L ) AND (d_R IS moderate_R)  THEN  Rotate IS low_right
+IF (d_L IS close_L ) AND (d_R IS far_R)  THEN  Rotate IS high_right
+IF (d_L IS moderate_L ) AND (d_R IS close_R)  THEN  Rotate IS low_left
+IF (d_L IS far_L ) AND (d_R IS close_R)  THEN  Rotate IS high_left
+IF (d_L IS moderate_L ) AND (d_R IS moderate_R)  THEN  Rotate IS nothing
